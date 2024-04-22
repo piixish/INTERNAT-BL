@@ -1,4 +1,4 @@
-# ancien bot bl de l'internat serveur a 100k.
+# ancien bot bl de l'internat.
 
 ## Démarrage du Bot
 
